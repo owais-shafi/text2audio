@@ -1,6 +1,5 @@
-## HELLO BRO!
+## HELL
 
-- mai hoon owais
 - updated by `Milad`
-- feature 
+
 
